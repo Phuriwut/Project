@@ -1,0 +1,46 @@
+.page-style {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.page-style2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 400px;
+}
+
+.right-image {
+    display: block;
+    margin-left: auto;
+    margin-right: 40px;
+    width: 50%;
+}
+.center {
+    text-align: center;
+}
+
+
+.jumbotron {
+    background: rgb(255, 255, 255); 
+    background: rgba(255, 255, 255, 0.5); 
+ }
+
+ .border-style{
+    border-width: 5px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+  
+ 

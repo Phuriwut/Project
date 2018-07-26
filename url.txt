@@ -1,0 +1,16 @@
+Used
+
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-indoor_temperature;*
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-indoor_humidity;*
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-indoor_light;
+
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-water* motor
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-tank; v
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-indoor_LED;
+http://ecourse.cpe.ku.ac.th/exceed/api/fingerplam-fan;
+   
+IDK
+float	outdoor_temperature;
+float	outdoor_humidity;
+float	outdoor_pressure;
+int32_t	is_someone_moving;
